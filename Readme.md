@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Kai Shoo](https://up.htmlacademy.ru/htmlcss/23/user/164863).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Кузьмичёв](https://htmlacademy.ru/profile/id342395).
 
 ---
 
